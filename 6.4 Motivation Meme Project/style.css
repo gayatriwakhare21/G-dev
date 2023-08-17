@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+
+}
+h1{
+      font-size: 3rem;
+}
+
+.main{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    
+    
+}
+.img{
+    border: 10px solid white;
+}
+h1{
+    padding-left: 10%;
+
+}
+h2{
+    padding-left: 20%;
+     font-size: 20px;
+}

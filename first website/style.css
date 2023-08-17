@@ -1,0 +1,153 @@
+.cld1{
+    position: relative;
+    margin-left: 900px;
+    padding-top: 0px;
+    display: block;
+}
+
+h1{
+    
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 34px;
+    margin-inline-end: 1px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+h2{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+    display: block;
+    font-size: 2.5em;
+    margin-block-start: -0.17em;
+    margin-block-end: 1.83em;
+    margin-inline-start: 12px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center;
+   
+    
+}
+.cld2{
+        position: absolute;
+        left: 250px;
+        bottom: 300px;
+          
+}
+.hil{
+ margin-left: 400px;
+ display: block;
+ color: #66bfbf;
+ margin-bottom: 90px;
+}
+.gayu{
+  
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    display: block;
+    margin-left: 600px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 10px solid  ;
+    border-color: lightseagreen;
+ 
+}
+.intro{
+    
+        color: #40514e;
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather", serif;
+            margin-bottom: 50px;
+            margin-top: 20px;
+ 
+}
+   
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 25px;
+}
+
+
+h3 {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin-left: 20px;
+    font-size: 25px;
+ 
+}
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.catt{
+    width: 250px;
+    height: 250px;
+}
+.ram{
+    width: 250px;
+    height: 250px;
+}
+p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.touch{
+    display: block;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.but{
+    
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    background: #11cdd4;
+}
+.foot{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+
+}
+.footer{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+
+}
